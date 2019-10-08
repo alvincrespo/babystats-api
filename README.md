@@ -1,24 +1,34 @@
-# README
+# Babystats API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This repo houses the backend application for tracking your newborns stats during their first couple of months.
 
-Things you may want to cover:
+# Background
 
-* Ruby version
+I was tired of writing in a physical journal, so decided to build this.
 
-* System dependencies
+## What can you do with this app?
 
-* Configuration
+You can track your newborns progress:
 
-* Database creation
+- Number of 💦 and 💩 diapers
+- Weight
+- Length
+- Head circumference
 
-* Database initialization
+## Why use this vs. other apps out there?
 
-* How to run the test suite
+This isn't connected to anything. Take the code, run it on your own server.
 
-* Services (job queues, cache servers, search engines, etc.)
+In fact, there isn't a login built in. Mostly because I'm lazy, but I really don't want to host this.
 
-* Deployment instructions
+Although, if you want to pay me to set this up for you - more than happy to. Hit me up on [Twitter](https://twitter.com/home).
 
-* ...
+## Contributing
+
+Check out [CONTRIBUTING.md](docs/CONTRIBUTING.md) for more info. I do warn you, nothing is there yet.
+
+## License
+
+MIT. Check it out [here](./LICENSE).
+
+Built w/ 💖 by [@alvincrespo](https://twitter.com/alvincrespo).
